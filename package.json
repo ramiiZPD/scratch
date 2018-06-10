@@ -1,0 +1,22 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramiiZPD/scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramiiZPD/scratch/issues"
+  },
+  "homepage": "https://github.com/ramiiZPD/scratch#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
